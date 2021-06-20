@@ -1,5 +1,6 @@
 # IP-spoofing
 Details on how to spoof IP using Kali Linux
+
 •	IP spoofing is the creation of Internet Protocol (IP) packets which have a modified source address in order to either hide the identity of the sender, to impersonate another computer system, or both.
 •	Here the tool used for IP spoofing is hping3.
 
