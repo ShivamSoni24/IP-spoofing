@@ -27,7 +27,7 @@ Ping
 
 •	The wireshark shows the source and destination IP address
 
-<img src="https://user-images.githubusercontent.com/58242932/122676972-e3942500-d1fd-11eb-8072-428aafe92607.JPG" alt="wireshark original ping(hl)" width="50%" height = "50%">
+<img src="https://user-images.githubusercontent.com/58242932/122676972-e3942500-d1fd-11eb-8072-428aafe92607.JPG" alt="wireshark original ping(hl)" width="80%" height = "80%">
 
 
 Packet details
@@ -42,7 +42,7 @@ Packet details
 
 •	Wireshark output:
 
-<img src="https://user-images.githubusercontent.com/58242932/122677053-31a92880-d1fe-11eb-9c44-b6e39f24ebb0.JPG" alt="wireshark changed ping(hl)" width="50%" height = "50%">
+<img src="https://user-images.githubusercontent.com/58242932/122677053-31a92880-d1fe-11eb-9c44-b6e39f24ebb0.JPG" alt="wireshark changed ping(hl)" width="80%" height = "80%">
 
 
 Packet details
