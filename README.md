@@ -7,7 +7,7 @@ Details on how to spoof IP using Kali Linux
 
 •	Host IP
  
-![Host IP](https://user-images.githubusercontent.com/58242932/122676879-89935f80-d1fd-11eb-87dc-9737b2add845.JPG){:height="250px" width="250px"}
+![Host IP](https://user-images.githubusercontent.com/58242932/122676879-89935f80-d1fd-11eb-87dc-9737b2add845.JPG){:height="50%" width="50%"}
 
 
 Victim IP
